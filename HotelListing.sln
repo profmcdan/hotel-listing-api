@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelListing", "HotelListing.csproj", "{914E9717-D2D6-456C-94EF-B5FEF23F33AD}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{83FAD9BB-2B75-44A9-83D7-BF2748D2B9ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{914E9717-D2D6-456C-94EF-B5FEF23F33AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{914E9717-D2D6-456C-94EF-B5FEF23F33AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{914E9717-D2D6-456C-94EF-B5FEF23F33AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{914E9717-D2D6-456C-94EF-B5FEF23F33AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83FAD9BB-2B75-44A9-83D7-BF2748D2B9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83FAD9BB-2B75-44A9-83D7-BF2748D2B9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83FAD9BB-2B75-44A9-83D7-BF2748D2B9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83FAD9BB-2B75-44A9-83D7-BF2748D2B9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
